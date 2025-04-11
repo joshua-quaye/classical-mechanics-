@@ -1,0 +1,267 @@
+\contentsline {section}{\numberline {1}Introduction to Classical Mechanics}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {subsection}{\numberline {1.1}Application of Classical Mechanics in areas of science}{2}
+\contentsline {section}{\numberline {2}Space and Time}{3}
+\contentsline {subsubsection}{\numberline {2.0.1}Space}{3}
+\contentsline {subsubsection}{\numberline {2.0.2}Vector operations}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{4}
+\contentsline {subsubsection}{\numberline {2.0.3}Vector Differenciation}{4}
+\contentsline {paragraph}{}{5}
+\contentsline {subsubsection}{\numberline {2.0.4}Time}{5}
+\contentsline {subsubsection}{\numberline {2.0.5}Reference Frames}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subsubsection}{\numberline {2.0.6}Galilean Transformation}{6}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {section}{\numberline {3}Validity of the first two laws}{8}
+\contentsline {subsubsection}{\numberline {3.0.1}The third law and conservation of momentum}{8}
+\contentsline {subsubsection}{\numberline {3.0.2}The third law--Newton}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {subsubsection}{\numberline {3.0.3}Validity of Newton's third Law}{10}
+\contentsline {paragraph}{}{11}
+\contentsline {subsubsection}{\numberline {3.0.4}Newton's second Law in Cartesian coordinates}{11}
+\contentsline {subsection}{\numberline {3.1}Linear momentum and Angular momentum}{12}
+\contentsline {subsubsection}{\numberline {3.1.1}The center of mass}{14}
+\contentsline {subsubsection}{\numberline {3.1.2}Angular Momentum for a single particle}{15}
+\contentsline {paragraph}{}{16}
+\contentsline {subsubsection}{\numberline {3.1.3}Angular Momentum for a several particles}{16}
+\contentsline {subsubsection}{\numberline {3.1.4}Angular momentum about the centre of mass}{17}
+\contentsline {section}{\numberline {4}Introduction to Dynamics}{18}
+\contentsline {subsection}{\numberline {4.1}Introduction and Review}{18}
+\contentsline {subsubsection}{\numberline {4.1.1}Newton's Laws of Motion}{18}
+\contentsline {subsubsection}{\numberline {4.1.2}Aside: Inertial vs Gravitational Mass}{20}
+\contentsline {subsubsection}{\numberline {4.1.3}Examples of Motion in One Dimension}{20}
+\contentsline {subsubsection}{\numberline {4.1.4}Uniform Force}{21}
+\contentsline {subsubsection}{\numberline {4.1.5}Uniform Force with Linear Frictional Damping}{21}
+\contentsline {subsubsection}{\numberline {4.1.6}Uniform Force with Quadratic Frictional Damping}{22}
+\contentsline {subsubsection}{\numberline {4.1.7}Crossed Electric and Magnetic Fields}{23}
+\contentsline {section}{\numberline {5}Newtonian Mechanics}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {subsection}{\numberline {5.1} Newton\IeC {\textquoteright }s Laws of Motion}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {subsubsection}{\numberline {5.1.1} Newton\IeC {\textquoteright }s Laws}{27}
+\contentsline {subsection}{\numberline {5.2} Inertial Frames and Newton\IeC {\textquoteright }s First Law}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{28}
+\contentsline {subsubsection}{\numberline {5.2.1} Galilean Relativity}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {subsection}{\numberline {5.3} Newton\IeC {\textquoteright }s Second Law}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {subsection}{\numberline {5.4} Looking Forwards: The Validity of Newtonian Mechanics}{31}
+\contentsline {section}{\numberline {6} Forces}{32}
+\contentsline {subsection}{\numberline {6.1} Potentials in One Dimension}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {paragraph}{}{33}
+\contentsline {paragraph}{}{34}
+\contentsline {subsubsection}{\numberline {6.1.1} Moving in a Potential}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{35}
+\contentsline {subsubsection}{\numberline {6.1.2} Equilibrium: Why (Almost) Everything is a Harmonic Oscillator}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {subsection}{\numberline {6.2} Potentials in Three Dimensions}{37}
+\contentsline {paragraph}{}{38}
+\contentsline {paragraph}{}{38}
+\contentsline {paragraph}{}{39}
+\contentsline {subsubsection}{\numberline {6.2.1} Central Forces}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {subsubsection}{\numberline {6.2.2} Angular Momentum}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {subsection}{\numberline {6.3} Gravity}{40}
+\contentsline {paragraph}{}{40}
+\contentsline {subsubsection}{\numberline {6.3.1} The Gravitational Field}{40}
+\contentsline {paragraph}{}{41}
+\contentsline {paragraph}{}{41}
+\contentsline {subsubsection}{\numberline {6.3.2} Escape Velocity}{42}
+\contentsline {paragraph}{}{42}
+\contentsline {subsubsection}{\numberline {6.3.3}Earth's satellite}{42}
+\contentsline {paragraph}{}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {subsubsection}{\numberline {6.3.4} Inertial vs Gravitational Mass}{43}
+\contentsline {subsection}{\numberline {6.4} Electromagnetism}{43}
+\contentsline {paragraph}{}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {subsubsection}{\numberline {6.4.1} The Electric Field of a Point Charge}{44}
+\contentsline {paragraph}{}{45}
+\contentsline {paragraph}{}{45}
+\contentsline {subsubsection}{\numberline {6.4.2} Circles in a Constant Magnetic Field}{45}
+\contentsline {paragraph}{}{46}
+\contentsline {paragraph}{}{46}
+\contentsline {paragraph}{}{47}
+\contentsline {subsubsection}{\numberline {6.4.3} An Aside: Maxwell\IeC {\textquoteright }s Equations}{47}
+\contentsline {paragraph}{}{47}
+\contentsline {subsection}{\numberline {6.5} Friction}{47}
+\contentsline {subsubsection}{\numberline {6.5.1} Dry Friction}{47}
+\contentsline {subsubsection}{\numberline {6.5.2} Fluid Drag}{48}
+\contentsline {paragraph}{}{48}
+\contentsline {paragraph}{}{48}
+\contentsline {paragraph}{}{48}
+\contentsline {subsubsection}{\numberline {6.5.3} An Example: The Damped Harmonic Oscillator}{49}
+\contentsline {subsubsection}{\numberline {6.5.4} Terminal Velocity with Quadratic Friction}{49}
+\contentsline {paragraph}{}{50}
+\contentsline {subsubsection}{\numberline {6.5.5}Coming Down}{50}
+\contentsline {paragraph}{}{50}
+\contentsline {subsubsection}{\numberline {6.5.6}Going Up}{51}
+\contentsline {subsubsection}{\numberline {6.5.7}Linear Drag and Ohm\IeC {\textquoteright }s Law}{51}
+\contentsline {subsubsection}{\numberline {6.5.8}A 3d Example: A Projectile with Linear Drag}{52}
+\contentsline {paragraph}{}{53}
+\contentsline {section}{\numberline {7}Conservative and Non-conservative Forces}{54}
+\contentsline {subsection}{\numberline {7.1}Conservative Forces in Many Particle Systems}{57}
+\contentsline {subsection}{\numberline {7.2}Linear and Angular Momentum}{58}
+\contentsline {section}{\numberline {8}Central Forces}{59}
+\contentsline {paragraph}{}{59}
+\contentsline {paragraph}{}{59}
+\contentsline {subsection}{\numberline {8.1}Polar Coordinates in the Plane}{59}
+\contentsline {paragraph}{}{59}
+\contentsline {paragraph}{}{60}
+\contentsline {subsection}{\numberline {8.2}Back to Central Forces}{60}
+\contentsline {paragraph}{}{61}
+\contentsline {paragraph}{}{61}
+\contentsline {paragraph}{}{61}
+\contentsline {subsubsection}{\numberline {8.2.1}The Effective Potential: Getting a Feel for Orbits}{62}
+\contentsline {paragraph}{}{62}
+\contentsline {paragraph}{}{62}
+\contentsline {paragraph}{}{63}
+\contentsline {paragraph}{}{63}
+\contentsline {subsubsection}{\numberline {8.2.2}The Stability of Circular Orbits}{63}
+\contentsline {paragraph}{}{63}
+\contentsline {paragraph}{}{63}
+\contentsline {paragraph}{}{64}
+\contentsline {subsection}{\numberline {8.3}The Orbit Equation}{65}
+\contentsline {paragraph}{}{65}
+\contentsline {subsubsection}{\numberline {8.3.1}The Kepler Problem}{65}
+\contentsline {paragraph}{}{65}
+\contentsline {paragraph}{}{66}
+\contentsline {paragraph}{}{66}
+\contentsline {paragraph}{}{66}
+\contentsline {paragraph}{}{67}
+\contentsline {subsubsection}{\numberline {8.3.2}Kepler\IeC {\textquoteright }s Laws of Planetary Motion}{69}
+\contentsline {paragraph}{}{69}
+\contentsline {paragraph}{}{69}
+\contentsline {subsubsection}{\numberline {8.3.3}Orbital Precession}{70}
+\contentsline {paragraph}{}{70}
+\contentsline {paragraph}{}{70}
+\contentsline {paragraph}{}{70}
+\contentsline {paragraph}{}{70}
+\contentsline {subsection}{\numberline {8.4}Scattering: Throwing Stuff at Other Stuff}{70}
+\contentsline {paragraph}{}{71}
+\contentsline {paragraph}{}{71}
+\contentsline {paragraph}{}{71}
+\contentsline {paragraph}{}{71}
+\contentsline {subsubsection}{\numberline {8.4.1}Rutherford Scattering}{71}
+\contentsline {section}{\numberline {9}Systems of Particles}{73}
+\contentsline {paragraph}{}{73}
+\contentsline {subsection}{\numberline {9.1}Centre of Mass Motion}{73}
+\contentsline {paragraph}{}{74}
+\contentsline {subsubsection}{\numberline {9.1.1}Conservation of Momentum}{74}
+\contentsline {subsubsection}{\numberline {9.1.2}Angular Momentum}{74}
+\contentsline {subsubsection}{\numberline {9.1.3}Energy}{74}
+\contentsline {paragraph}{}{75}
+\contentsline {subsubsection}{\numberline {9.1.4}Work-Energy Theorem}{75}
+\contentsline {subsubsection}{\numberline {9.1.5}In Praise of Conservation Laws}{76}
+\contentsline {subsubsection}{\numberline {9.1.6}Why the Two Body Problem is Really a One Body Problem}{76}
+\contentsline {paragraph}{}{77}
+\contentsline {paragraph}{}{77}
+\contentsline {paragraph}{}{77}
+\contentsline {subsection}{\numberline {9.2}Collisions}{77}
+\contentsline {paragraph}{}{77}
+\contentsline {paragraph}{}{78}
+\contentsline {section}{\numberline {10}One-Dimensional Conservative Systems}{79}
+\contentsline {subsection}{\numberline {10.1}A Dynamical System}{79}
+\contentsline {subsubsection}{\numberline {10.1.1}Example: Harmonic Oscillator}{80}
+\contentsline {subsection}{\numberline {10.2}One-Dimensional Mechanics as a Dynamical System}{80}
+\contentsline {subsubsection}{\numberline {10.2.1}Sketching Phase Curves}{81}
+\contentsline {subsection}{\numberline {10.3}Fixed Points and their Vicinity}{82}
+\contentsline {subsubsection}{\numberline {10.3.1}Linearized Dynamics in the Vicinity of a Fixed Point}{83}
+\contentsline {subsection}{\numberline {10.4}Examples of Conservative One-Dimensional Systems}{84}
+\contentsline {subsubsection}{\numberline {10.4.1}Harmonic Oscillator}{84}
+\contentsline {subsubsection}{\numberline {10.4.2}Pendulum}{85}
+\contentsline {section}{\numberline {11}Lagrangian and Hamiltonian Mechanics}{87}
+\contentsline {paragraph}{}{87}
+\contentsline {paragraph}{}{87}
+\contentsline {paragraph}{}{87}
+\contentsline {paragraph}{}{87}
+\contentsline {paragraph}{}{87}
+\contentsline {subsubsection}{\numberline {11.0.1}Constraints}{88}
+\contentsline {paragraph}{}{89}
+\contentsline {paragraph}{}{90}
+\contentsline {paragraph}{}{90}
+\contentsline {paragraph}{}{90}
+\contentsline {paragraph}{}{90}
+\contentsline {paragraph}{}{91}
+\contentsline {paragraph}{}{92}
+\contentsline {subsection}{\numberline {11.1}Lagrangian and Hamiltonian Formulation}{93}
+\contentsline {paragraph}{}{93}
+\contentsline {subsubsection}{\numberline {11.1.1}Introduction to Calculus of Variation}{93}
+\contentsline {subsubsection}{\numberline {11.1.2}Particular forms of the Euler-Lagrange Equation}{96}
+\contentsline {subsubsection}{\numberline {11.1.3}Lagrangian equation}{98}
+\contentsline {subsection}{\numberline {11.2}Geodesics}{99}
+\contentsline {paragraph}{}{99}
+\contentsline {paragraph}{}{99}
+\contentsline {paragraph}{}{100}
+\contentsline {paragraph}{}{100}
+\contentsline {subsection}{\numberline {11.3}The Brachistochrone Problem}{102}
+\contentsline {subsubsection}{\numberline {11.3.1}Principle of Least Action: Fermats Principle in Geometric Optics}{105}
+\contentsline {subsection}{\numberline {11.4}Generalized Coordinates}{107}
+\contentsline {subsubsection}{\numberline {11.4.1}Lagrange Equations In Generalized Coordinates}{108}
+\contentsline {subsection}{\numberline {11.5}Equivalence of Lagrange's and Newton's Equation}{112}
+\contentsline {subsubsection}{\numberline {11.5.1}Canonical momenta and conservation}{115}
+\contentsline {paragraph}{}{115}
+\contentsline {subsubsection}{\numberline {11.5.2}Energy conservation: The Hamiltonian}{116}
+\contentsline {paragraph}{}{116}
+\contentsline {subsubsection}{\numberline {11.5.3}Hamiltonian equation of motion}{117}
+\contentsline {subsubsection}{\numberline {11.5.4}Functions and Functionals}{118}
+\contentsline {subsubsection}{\numberline {11.5.5}Canonical Equations of Motion- Hamiltonian Dynamics}{119}
+\contentsline {section}{\numberline {12}Lagragian Revisited}{122}
+\contentsline {subsection}{\numberline {12.1}Lagragian and Hamiltonian Formulation}{122}
+\contentsline {subsection}{\numberline {12.2}Advantages of Lagragian Mechanics}{122}
+\contentsline {subsection}{\numberline {12.3}Calculus of variation}{122}
+\contentsline {subsection}{\numberline {12.4}Shortest Path Between 2 Points}{123}
+\contentsline {subsection}{\numberline {12.5}Fermat\IeC {\textquoteright }s Principle:}{123}
+\contentsline {subsection}{\numberline {12.6}Variational Principles}{123}
+\contentsline {subsection}{\numberline {12.7}Euler-Lagrange Equations}{124}
+\contentsline {subsubsection}{\numberline {12.7.1}Euler-Lagrange Equation-2}{124}
+\contentsline {subsubsection}{\numberline {12.7.2}Euler-Lagrange Equation-3}{124}
+\contentsline {subsection}{\numberline {12.8}The Brachistochrone}{125}
+\contentsline {subsection}{\numberline {12.9}Generalized Coordinates and constraints}{126}
+\contentsline {subsection}{\numberline {12.10}The Hamiltonian Formalism}{128}
+\contentsline {section}{\numberline {13}Conic Sections}{134}
+\contentsline {paragraph}{}{134}
+\contentsline {paragraph}{}{134}
+\contentsline {paragraph}{}{135}
+\contentsline {paragraph}{}{136}
+\contentsline {paragraph}{}{138}
